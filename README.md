@@ -150,6 +150,6 @@ Experiment with transformer-based models (BERT)
 Build an interactive analytics dashboard
 Implement real-time review monitoring
 
-👤 Author
+Author
 
 Mayank Sahu
