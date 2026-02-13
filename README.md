@@ -117,6 +117,22 @@ The **Linear SVM** model was selected for production due to its superior perform
 
 Instead of traditional collaborative filtering, this project implements a **business-oriented recommendation framework** focused on operational decision-making.
 
+---
+
+## Product Recommendation Engine 
+
+A cosine similarity-based recommendation system was implemented using TF-IDF representations of aggregated product reviews.
+This enables the identification of semantically similar products based on customer language patterns.
+
+Example:
+Input Product:
+Optimum Nutrition Whey Protein
+
+Recommended:
+- MuscleBlaze Whey Protein
+- Dymatize Elite Whey
+- BSN Syntha-6
+
 ### Promotion Score Formula
 
 ```
