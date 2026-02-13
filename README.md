@@ -104,17 +104,29 @@ Docker
 Project Structure
 
 healthkart-review-nlp/
+
 │
+
 ├── data/                # Dataset (ignored in repo)
+
 ├── models/              # Saved artifacts (ignored)
+
 ├── notebooks/           # Analysis & experimentation
+
 ├── src/
+
 │     ├── train.py       # Training pipeline
+
 │     └── predict.py     # Inference script
+
 │
+
 ├── Dockerfile
+
 ├── .dockerignore
+
 ├── requirements.txt
+
 └── README.md
 
 Run with Docker
